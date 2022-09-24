@@ -43,5 +43,6 @@
 
 ## _Удаление веток_
 Для удаления ветки ввести команду "git branch -d 'name branch'"
+![картинка удаление веток](deletebranch.jpg)
 
 + ссылка на программу ***git*** https://git-scm.com/downloads
